@@ -2,7 +2,9 @@
 
 ##Task Finalization##
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
+The list of design that I intent to implement in my application or provide ease to the society by applying HCI concepts to that task are:
+- Managing class
+- Activity
 
 
 ##Need Finding##
